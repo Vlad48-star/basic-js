@@ -24,5 +24,5 @@ import { NotImplementedError } from '../extensions/index.js';
  * ]
  */
 export default function minesweeper (matrix) {
-  
+    throw new NotImplementedError('Not implemented');
 }
